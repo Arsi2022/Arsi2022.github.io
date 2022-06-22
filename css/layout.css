@@ -1,0 +1,15 @@
+.flex{
+    display:flex;
+    justify-content: space-between;
+    background-color: crimson;
+    align-items: center;
+    grid-template-rows: auto;
+}
+header h1{
+    
+    margin-left:  20px;
+}  
+    
+nav{
+   margin-right: 20px; 
+}
